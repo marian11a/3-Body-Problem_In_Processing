@@ -82,7 +82,7 @@ int numStars = 400; // Number of stars
 PVector[] stars; // Array to store star positions
 
 void setup() {
-  size(1600, 900);
+  size(1600, 900, P2D);
   m1 = new Mover(width/2 + 300, height/2, 0, 2, 60, color(255, 253, 194));
   m2 = new Mover(width/2 - 500, height/2, 0, -4, 80, color(177, 219, 251));
   m3 = new Mover(width/2, height/2 + 370, -4, 0, 70, color(255, 225, 143));
