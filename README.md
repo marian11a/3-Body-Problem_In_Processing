@@ -1,8 +1,8 @@
-Three-Body Star System Simulation
+# Three-Body Star System Simulation
 
 This Processing sketch simulates a three-body star system where a planet is trapped in the gravitational pull of three stars. The stars and the planet interact with each other based on gravitational forces, creating dynamic movements within the system.
 
-Features
+## Features
 
 ⦁	Three Celestial Bodies: The simulation includes three movable celestial bodies representing stars and one planet.
 
@@ -12,7 +12,7 @@ Features
 
 ⦁	Starry Background: The background features a starry sky, enhancing the celestial atmosphere of the simulation.
 
-How to Use
+## How to Use
 
 ⦁	Download the files and open the Processing sketch in the Processing IDE.
 
@@ -22,12 +22,12 @@ How to Use
 
 ⦁	Experiment with different initial parameters, such as the mass and velocity of the celestial bodies, to observe how they affect the system dynamics.
 
-Requirements
+## Requirements
 
 ⦁	Processing: Ensure you have Processing installed on your system to run the sketch.
 
 ⦁	Java Runtime Environment: Processing requires Java to run sketches.
 
-Credits
+## Credits
 
 ⦁	This sketch was created by [Marian11a] and is available on GitHub at [https://github.com/marian11a/3-Body-Problem_In_Processing].
